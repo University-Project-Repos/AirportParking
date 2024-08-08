@@ -2,12 +2,12 @@
 
 CLI and GUI desktop application for simulating checking vehicles in and out of
 [Christchurch International Airport parking lots](https://www.christchurchairport.co.nz/en/parking-and-transport/parking/),
-and computing the cost for any duration of parking.
+and generating the fee amount for any duration of parking.
 
 ![chch_airport](https://github.com/user-attachments/assets/3112c1a4-3fad-46a9-97da-51a66a34d67b)
 
-My first Java project, and only just not flunked if not for the last-moment discovery of an invisible IDE bug randomly misleading results. 
-The application is since refactored when migrating to Java 16 with an aesthetically improved and more robust GUI. 
+My first Java project, and only just not flunked if not for the last-moment discovery of an invisible IDE import bug randomly misleading results. 
+The application is since refactored when migrating to Java 16 with an aesthetically improved and more robust JavaFX GUI. 
 Being a university project for introductory software engineering, the algorithmic computing of parking costs is not updated to reflect changes in official prices. 
 The amount of parking spaces available for each parking lot is also not a correct representation.
 
